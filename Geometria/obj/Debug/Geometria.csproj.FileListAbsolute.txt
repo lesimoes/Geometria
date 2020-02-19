@@ -1,1 +1,2 @@
 C:\dev\c#\Geometria\Geometria\bin\Debug\Geometria.exe.config
+C:\Users\Servidor01\Documents\POOIII\Geometria\Geometria\bin\Debug\Geometria.exe.config
