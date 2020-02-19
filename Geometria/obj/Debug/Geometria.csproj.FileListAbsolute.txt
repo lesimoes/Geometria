@@ -1,1 +1,0 @@
-C:\dev\c#\Geometria\Geometria\bin\Debug\Geometria.exe.config
