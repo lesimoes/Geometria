@@ -23,6 +23,6 @@ public class Retangulo
 
     public override string toString()
     {
-        return calculaArea() + calculaPerimetro();
+        return "Area: " + calculaArea() + "Perimetro: " + calculaPerimetro();
     }
 }
